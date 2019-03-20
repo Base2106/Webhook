@@ -2,5 +2,5 @@
 token = 'token'
 ID = 'Id'
 secret = 'SFSfsffesr22fe'
-group_id = 'bns_ru'
+group_id = 'overheardbns'
 greeting = 'Носки'
